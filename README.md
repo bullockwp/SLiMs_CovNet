@@ -1,8 +1,8 @@
 # SLiMs_CovNet
 -"Feature-learning in Short Linear Motifs (SLiMs) and Characterizing SLiMs in their Structural Context."  
 - Created a convolutional neural network which infers a probability distribution of residues along alternative sequences of SLiMs,  from the input of their atomistic structure.
-- 8 week project
-- Intended as a learning exercise in lachine learning
+- 8 week project.
+- Intended as a learning exercise in machine learning.
 
 Main file = SLiMsNN working.py
 
